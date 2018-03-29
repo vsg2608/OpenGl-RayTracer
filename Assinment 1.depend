@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1517666921 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\drawall.cpp
+	<windows.h>
+	<GL/gl.h>
+	"Draw.h"
+	<stdio.h>
+
+1517150196 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\drawhandler.cpp
+	<windows.h>
+	<GL/gl.h>
+	"Draw.h"
+
+1517665864 c:\users\vishesh goyal\desktop\computer raphics\assinment 1\draw.h
+	<windows.h>
+	<GL/gl.h>
+
+1516728196 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\enable.cpp
+	<windows.h>
+	<GL/gl.h>
+
+1517149519 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\disable.cpp
+	<windows.h>
+	<GL/gl.h>
+
+1517666921 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Enable.h"
+	"Draw.h"
+	"Disable.h"
+
+1516728196 c:\users\vishesh goyal\desktop\computer raphics\assinment 1\enable.h
+	<winable.h>
+	<GL/gl.h>
+
+1517149518 c:\users\vishesh goyal\desktop\computer raphics\assinment 1\disable.h
+	<windows.h>
+	<GL/gl.h>
+
+1517151691 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\drawtriangle.cpp
+	<windows.h>
+	<GL/gl.h>
+
+1517321633 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\drawsquare.cpp
+	<GL/gl.h>
+
+1517330725 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\drawpoint.cpp
+	<GL/gl.h>
+
+1517676981 source:c:\users\vishesh goyal\desktop\computer raphics\assinment 1\raytracer.cpp
+	<windows.h>
+	<iostream>
+	<math.h>
+
